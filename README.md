@@ -1,6 +1,6 @@
 # Fair-Drafter
 
-This project was created in order to quick and painlessly create a statistically fair draft, regardless of player number or amount of rounds.
+This project was created in order to quickly and painlessly create a statistically fair draft, regardless of player number or amount of rounds.
 
 This can be used for a variety of games or tournaments where there are sequential rounds of picks for various players and absolute fairness is desired.
 
