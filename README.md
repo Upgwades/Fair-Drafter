@@ -1,12 +1,12 @@
 # Fair-Drafter
 
-This project was created quick and painlessly create a statistically fair draft regardless of player number or amount of rounds.
+This project was created in order to quick and painlessly create a statistically fair draft, regardless of player number or amount of rounds.
 
 This can be used for a variety of games or tournaments where there are sequential rounds of picks for various players and absolute fairness is desired.
 
 ## Quick Start
 
-Made for people with absolutely no knowledge of how to code or patience the following is instructions on running this program as fast as possible.
+Made for people with absolutely no knowledge of how to code or patience, the following is instructions on running this program as fast as possible.
 
 * Go [here](https://repl.it/languages/python). This website runs python code you give it and displays the results.
 
